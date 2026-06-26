@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-signe-des-dieux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Un Signe Des Dieux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-signe-des-dieux/) |
+| **Get License** | [Obtain a Music License for Un Signe Des Dieux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-signe-des-dieux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, je cherche ton regard
+> Midnight drive in Paris, on s'évade dans le noir
+> Tes lèvres ont le goût du risque et du danger
+> Un signe des dieux, bébé, laisse-toi guider
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
